@@ -1,3 +1,4 @@
+//function that changes the color of border of paragraph when user presses button
 function change_p_color(){
     //document.getElementById("test").innerHTML = document.getElementById("bR").value;
     let borderR = document.getElementById("bR").value;

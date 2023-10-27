@@ -1,3 +1,4 @@
+//function that checks the password lengths and if they match. Will alert user with problem or success message
 function checkpass(){
     firstPass = document.getElementById("first").value;
     secondPass = document.getElementById("second").value;
