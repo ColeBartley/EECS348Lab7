@@ -1,0 +1,23 @@
+h1 {
+    color: darkblue;
+}
+
+img {
+   width: 15%; 
+}
+
+h2 {
+    color: darkblue;
+}
+
+h3 {
+    text-indent: 1%;
+}
+
+p{
+    text-indent: 2%;
+}
+
+a{
+    padding-left: 2%;
+}
